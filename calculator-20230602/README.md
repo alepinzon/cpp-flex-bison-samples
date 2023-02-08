@@ -1,5 +1,5 @@
 # C++ with Flex and Bison
-Calculator grammar using Flex and Bison
+Calculator using Flex and Bison
 
 To execute the sample run the `./run.sh` file.
 
